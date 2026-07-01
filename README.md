@@ -30,3 +30,6 @@ A collection of data cleaning, auditing, and analysis tasks using Microsoft Exce
 * استخدام الدوال المنطقية المركبة (IF + AND, IF + OR) لتقييم أداء الموظفين وتحديد استحقاقهم للمكافآت (Bonus) بناءً على تحقيق التارجت أو نسبة الحضور.
 * استخدام دالة (Nested IF) لتصنيف أداء المبيعات إلى مستويات (Excellent, Good, Needs Improvement).
 * استخدام دالة (SWITCH) لتحويل التقييمات الرقمية إلى تقييمات وصفية (A, B, C) لتسهيل قراءة النتائج.
+<img width="1908" height="672" alt="AGG Functions" src="https://github.com/user-attachments/assets/3cd41f9d-bb30-47cb-911c-13c426df944f" />
+<img width="1871" height="695" alt="If AND OR SWITCH" src="https://github.com/user-attachments/assets/accbe19e-c81c-41bd-8073-33068acfd71d" />
+<img width="1911" height="745" alt="AGG with Condition" src="https://github.com/user-attachments/assets/fb552307-3518-4472-af74-a8f7a246134e" />
